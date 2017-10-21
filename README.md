@@ -31,14 +31,14 @@ The source code is very well-documented explaining in detail every process indiv
  - Setup the second level of sets using only the sets that passed the min-support test.
  - Run the minimum support test again and apply the same method till no set passes the test anymore
 
-![figure1](https://github.com/thaer275/titanic_analyzer/blob/master/figure1.png)
+![figure1](https://github.com/thayerAlshaabi/titanic_analyzer/blob/master/figure1.png)
 
 ---
 
 #### Results of Apriori Algorithm:
 The results of the Apriori algorithm are saved to a customized structure that was designed specifically for the purpose and scope of this project.
 
-![figure2](https://github.com/thaer275/titanic_analyzer/blob/master/figure2.png)
+![figure2](https://github.com/thayerAlshaabi/titanic_analyzer/blob/master/figure2.png)
 
 ---
 
@@ -49,7 +49,7 @@ The results of the Apriori algorithm are saved to a customized structure that wa
  - If no rule was found: collect all possible sets that could help to make a prediction from the rules table.
  - Use available statistical data to provide a meaningful prediction for the new user.
 
-![figure3](https://github.com/thaer275/titanic_analyzer/blob/master/figure3.png)
+![figure3](https://github.com/thayerAlshaabi/titanic_analyzer/blob/master/figure3.png)
 
 
 
